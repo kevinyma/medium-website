@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Cooper Hewitt;
+    src: url(../fonts/CooperHewitt-Medium.woff) format('woff');
+}
+
 div.navLink {
 	position: relative;
 	display: inline-block;
